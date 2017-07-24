@@ -1,0 +1,27 @@
+.slider .indicators .indicator-item.active {
+	background-color: #80deea;
+}
+.row_head {
+	position: relative;
+}
+.basket {
+  position: absolute; 
+  height: 100%;
+  top:0;
+  bottom:0;
+  margin: 0;
+  padding: 1rem;
+}
+.phone {
+	margin: 1rem;
+}
+footer {
+	width: 100%;
+}
+.copyright {
+	margin: 0;
+}
+.card_1, .card_2, .card_3, .card_4 {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
