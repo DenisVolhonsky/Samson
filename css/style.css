@@ -1,27 +1,46 @@
 .slider .indicators .indicator-item.active {
 	background-color: #80deea;
 }
-.row_head {
-	position: relative;
-}
 .basket {
-  position: absolute; 
-  height: 100%;
-  top:0;
-  bottom:0;
-  margin: 0;
-  padding: 1rem;
-}
-.phone {
-	margin: 1rem;
-}
-footer {
-	width: 100%;
+ 	height: 100%;
+ 	padding: 1rem;
 }
 .copyright {
 	margin: 0;
 }
-.card_1, .card_2, .card_3, .card_4 {
+.cards {
 	margin-top: 20px;
 	margin-bottom: 20px;
+	overflow: hidden;
 }
+.cost {
+	font-size: 24px;
+	font-weight: bold;
+}
+footer, .btn-large {
+ 	width: 100%;
+}
+a>p {
+	color: grey;
+}
+.smallpic {
+	margin-bottom: 30px;
+
+}
+.enable {
+	border: 1px solid #E7E7E7;
+}
+.nametm {
+	margin: 50px auto;
+}
+.p-right1 {
+	padding-right: 20px;
+}
+.p-right0 {
+	padding-right: 0;
+	margin-right: 0;
+}
+
+
+
+
